@@ -15,6 +15,7 @@ Python × 生成AI を活用し、チャットボット開発や業務効率化�
 ### 🛠 ポートフォリオ・個人開発で使用
 - フレームワーク：Laravel 5.8
 - フロントエンド：HTML / CSS / Blade / JavaScript
+- OS：macOS
 - Git / GitHub（基本操作）
 
 ## 📌 主なポートフォリオ
