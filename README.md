@@ -5,11 +5,11 @@ Python × 生成AI を活用し、チャットボット開発や業務効率化�
 ## 🔧 技術スタック
 ### 💼 実務経験のある技術
 - 言語：Python
-- LLM関連：OpenAI API（Azure OpenAI）、LangChain、TSUZUMI（日本語LLM）
-- OS：Linux（CentOS 7）、Windows
+- LLM関連：OpenAI API（Azure OpenAI）、LangChain、Streamlit、TSUZUMI（日本語LLM）
+- OS：Linux（CentOS 7）、Windows、AIX
 - DB：Oracle
 - RPA：Blue Prism
-- DWH/ETL：Informatica IDMC（CDI, MDM）
+- DWH/ETL：Informatica IDMC（CDI, MDM、EDC）
 - その他：SQL（実務経験あり）、ShellScript（補助的に使用）
 
 ### 🛠 ポートフォリオ・個人開発で使用
