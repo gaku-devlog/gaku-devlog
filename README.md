@@ -19,7 +19,7 @@ Python × 生成AI を活用し、チャットボット開発や業務効率化�
 - Git / GitHub（基本操作）
 
 ## 📌 主なポートフォリオ
-### 🔗 [New Style Hustle 情報サイト](https://gakuto-newstylehustle.com)
+### 🔗 [GAKUTOのニュースタイルハッスル情報部屋](https://gakuto-newstylehustle.com)
 > Laravel 5.8 を用いた個人開発サイト。ニュースタイルハッスルという新しいペアダンスのコミュニティ情報を掲載。  
 > → GitHub: [newstylehustle-website](https://github.com/gaku-devlog/newstylehustle-website)
 
