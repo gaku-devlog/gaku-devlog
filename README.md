@@ -20,13 +20,13 @@ Python × 生成AI を活用し、チャットボット開発や業務効率化�
 
 ## 📌 主なポートフォリオ
 ### 🔗 [GAKUTOのニュースタイルハッスル情報部屋](https://gakuto-newstylehustle.com)
-> Laravel 5.8 を用いた個人開発サイト。ニュースタイルハッスルという新しいペアダンスのコミュニティ情報を掲載。  
+> Laravel 5.8 を用いた個人開発サイト。ニュースタイルハッスルという新しいペアダンスのコミュニティ情報を掲載。（2019年）
 > → GitHub: [newstylehustle-website](https://github.com/gaku-devlog/newstylehustle-website)
 
 ## 📜 資格
-- Python 3 エンジニア認定基礎試験 合格
-- Python 3 エンジニア認定実践試験 合格
-- Python 3 エンジニア認定データ分析試験 合格
+- Python 3 エンジニア認定基礎試験 合格（2025年）
+- Python 3 エンジニア認定実践試験 合格（2025年）
+- Python 3 エンジニア認定データ分析試験 合格（2025年）
 
 
 ## 📘 学習 & 制作記録
