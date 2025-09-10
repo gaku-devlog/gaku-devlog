@@ -13,13 +13,17 @@ Python × 生成AI を活用し、チャットボット開発や業務効率化�
 - その他：SQL（実務経験あり）、ShellScript（補助的に使用）
 
 ### 🛠 ポートフォリオ・個人開発で使用
-- フレームワーク：Laravel 5.8
-- フロントエンド：HTML / CSS / Blade / JavaScript
-- OS：macOS
-- Git / GitHub（基本操作）
+- フレームワーク：Streamlit、Flask（学習中）、FastAPI（学習中）
+- LLM関連：tsuzumi（Azure AI Foundry）、LangChain、OpenAI API
+- ベクトルDB：FAISS
+- クラウド：Azure Container Apps、Azure Container Registry
+- コンテナ：Docker
+- CI/CD：GitHub Actions
+- その他：macOS、Git / GitHub
 
 ## 📌 主なポートフォリオ
 ### 🔗 [tsuzumi RAG Chat Demo](https://tsuzumi-rag-chat.icymeadow-a10cc88a.eastus2.azurecontainerapps.io)
+![tsuzumi RAG Chat Demo Screenshot](https://raw.githubusercontent.com/gaku-devlog/tsuzumi-rag-chat-demo/main/images/chat_demo.png)
 > 国産LLM **tsuzumi（Azure AI Foundry）** と **Streamlit** を利用した RAG チャットアプリ。  
 > - PDF アップロード & RAG 検索機能  
 > - FAISS によるベクトル検索（類似度スコア・検索件数を調整可能）  
