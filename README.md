@@ -43,8 +43,7 @@ Python × 生成AI を活用し、チャットボット開発や業務効率化�
 
 ## 📘 学習 & 制作記録
 - [Qiita記事一覧](https://qiita.com/gaku-devlog)  
-  Pythonなどの学習について記録しています。
-
+  主にPython学習や試験勉強にて活用。
 
 ## 🎯 今後の目標
 - Pythonを活用した業務SaaS開発に携わること
