@@ -36,7 +36,7 @@ Python × 生成AI を活用し、チャットボット開発や業務効率化�
 Laravel 5.8 を用いた個人開発サイト。ニュースタイルハッスルという新しいペアダンスのコミュニティ情報を掲載。（2019年）
 > → GitHub: [newstylehustle-website](https://github.com/gaku-devlog/newstylehustle-website)
 
-![newstylehustle-website Screenshot](https://raw.githubusercontent.com/gaku-devlog/newstylehustle-website/main/docs/images/top.png)
+![newstylehustle-website Screenshot](https://raw.githubusercontent.com/gaku-devlog/newstylehustle-website/main/docs/images/top.jpg)
 
 ## 📜 資格
 - Python 3 エンジニア認定基礎試験 合格（2025年）
