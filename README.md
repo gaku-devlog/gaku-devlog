@@ -22,7 +22,7 @@ Python × 生成AI を活用し、チャットボット開発や業務効率化�
 - その他：macOS、Git / GitHub
 
 ## 📌 主なポートフォリオ
-### 🔗 [tsuzumi RAG Chat Demo](https://tsuzumi-rag-chat.icymeadow-a10cc88a.eastus2.azurecontainerapps.io)
+### 🔗 [tsuzumi RAG Chat Demo](https://github.com/gaku-devlog/tsuzumi-rag-chat-demo))
 国産LLM **tsuzumi（Azure AI Foundry）** と **Streamlit** を利用した RAG チャットアプリ。  
 > - PDF アップロード & RAG 検索機能  
 > - FAISS によるベクトル検索（類似度スコア・検索件数を調整可能）  
@@ -36,7 +36,7 @@ Python × 生成AI を活用し、チャットボット開発や業務効率化�
 Laravel 5.8 を用いた個人開発サイト。ニュースタイルハッスルという新しいペアダンスのコミュニティ情報を掲載。（2019年）
 > → GitHub: [newstylehustle-website](https://github.com/gaku-devlog/newstylehustle-website)
 
-![newstylehustle-website Screenshot](https://raw.githubusercontent.com/gaku-devlog/newstylehustle-website/docs/images/top.png)
+![newstylehustle-website Screenshot](https://raw.githubusercontent.com/gaku-devlog/newstylehustle-website/main/docs/images/top.png)
 
 ## 📜 資格
 - Python 3 エンジニア認定基礎試験 合格（2025年）
