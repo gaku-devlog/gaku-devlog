@@ -23,11 +23,11 @@ Python × 生成AI を活用し、チャットボット開発や業務効率化�
 
 ## 📌 主なポートフォリオ
 ### 🔗 [tsuzumi RAG Chat Demo](https://github.com/gaku-devlog/tsuzumi-rag-chat-demo)
-国産LLM **tsuzumi（Azure AI Foundry）** と **Streamlit** を利用した RAG チャットアプリ。  
-> - RAG 検索機能 & PDF アップロード
+国産LLM **tsuzumi（Azure AI Foundry）** と Streamlit を利用した RAG チャットアプリ。  
+> - **RAG 検索機能** & PDF アップロード
 > - FAISS によるベクトル検索（類似度スコア・検索件数を調整可能）  
-> - Docker 化 & **Azure Container Apps へデプロイ済み**  
-> - **GitHub Actions を利用した CI/CD パイプライン** 構築  
+> - Docker 化 & **Azure Container Apps** へデプロイ済み  
+> - GitHub Actions を利用した CI/CD パイプライン 構築  
 > → GitHub: [tsuzumi-rag-chat-demo](https://github.com/gaku-devlog/tsuzumi-rag-chat-demo)
 
 ![tsuzumi RAG Chat Demo Screenshot](https://raw.githubusercontent.com/gaku-devlog/tsuzumi-rag-chat-demo/main/images/chat_demo.png)
