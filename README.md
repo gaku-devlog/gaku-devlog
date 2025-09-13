@@ -13,7 +13,7 @@ Python × 生成AI を活用し、チャットボット開発や業務効率化�
 - その他：SQL（実務経験あり）、ShellScript（補助的に使用）
 
 ### 🛠 ポートフォリオ・個人開発で使用
-- フレームワーク：Streamlit、Flask（学習中）、FastAPI（学習中）
+- フレームワーク：Streamlit、FastAPI（学習中）
 - LLM関連：tsuzumi（Azure AI Foundry）、LangChain、OpenAI API
 - ベクトルDB：FAISS
 - クラウド：Azure Container Apps、Azure Container Registry
