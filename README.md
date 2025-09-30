@@ -32,6 +32,17 @@ Python × 生成AI を活用し、チャットボット開発や業務効率化�
 
 ![tsuzumi RAG Chat Demo Screenshot](https://raw.githubusercontent.com/gaku-devlog/tsuzumi-rag-chat-demo/main/images/chat_demo.png)
 
+### 🔗 [Simple FastAPI Chat](https://github.com/gaku-devlog/simple-fastapi-chat)
+FastAPI × React を用いた、**複数ユーザー対応のリアルタイムチャットアプリ**。  
+> - WebSocket によるリアルタイムチャット  
+> - JWT 認証（ユーザー登録 / ログイン）  
+> - SQLite + SQLAlchemy によるチャット履歴保存  
+> - Docker 化 & **Azure Container Apps** へデプロイ済み  
+> - GitHub Actions を用いた CI/CD 構築  
+> → GitHub: [simple-fastapi-chat](https://github.com/gaku-devlog/simple-fastapi-chat)
+
+![Simple FastAPI Chat Screenshot](https://raw.githubusercontent.com/gaku-devlog/simple-fastapi-chat/main/images/chat_demo.png)
+
 ### 🔗 [GAKUTOのニュースタイルハッスル情報部屋](https://gakuto-newstylehustle.com)
 Laravel 5.8 を用いた個人開発サイト。ニュースタイルハッスルという新しいペアダンスのコミュニティ情報を掲載。（2019年）
 > → GitHub: [newstylehustle-website](https://github.com/gaku-devlog/newstylehustle-website)
