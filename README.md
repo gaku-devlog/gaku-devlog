@@ -34,10 +34,10 @@ Python × 生成AI を活用し、チャットボット開発や業務効率化�
 
 ### 🔗 [Simple FastAPI Chat](https://github.com/gaku-devlog/simple-fastapi-chat)
 FastAPI × React を用いた、**複数ユーザー対応のリアルタイムチャットアプリ**。  
-> - WebSocket によるリアルタイムチャット  
+> - **WebSocket** によるリアルタイムチャット  
 > - JWT 認証（ユーザー登録 / ログイン）  
 > - SQLite + SQLAlchemy によるチャット履歴保存  
-> - Docker 化 & **Azure Container Apps** へデプロイ済み  
+> - Docker 化 & Azure Container Apps へデプロイ済み  
 > - GitHub Actions を用いた CI/CD 構築  
 > → GitHub: [simple-fastapi-chat](https://github.com/gaku-devlog/simple-fastapi-chat)
 
